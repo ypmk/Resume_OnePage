@@ -1,0 +1,9 @@
+.projects {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+}
+.projects a {
+    color: #61dafb;
+    text-decoration: none;
+}
